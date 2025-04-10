@@ -1,3 +1,6 @@
+``` javascript
+var myVar = "Hello, world!";
+```
 # H1
 ## H2
 ### H3
@@ -21,6 +24,3 @@
 
 
 
-
-I have added H1 - H6, showing the difference in size between them
-Next, I added an image of Yaktocat
